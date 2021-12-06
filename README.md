@@ -21,7 +21,7 @@ s.no|name|designation
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
-1. first_ele
+1. ~~first_ele~~
    - headind
        - heading2 nested list
 
